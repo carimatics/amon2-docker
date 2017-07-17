@@ -11,7 +11,7 @@ $ docker-compose build
 ### Carton install
 
 ```
-$ docker run -v $(pwd)/webapp amon2docker_web carton install
+$ docker run -v $(pwd):/webapp amon2docker_web carton install
 ```
 
 ### Lounch web application
