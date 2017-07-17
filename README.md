@@ -1,5 +1,9 @@
 # Docker container for Amon2 web application
 
+## Why use this?
+
+You can develop web applications without contaminating the environment of your host computer.
+
 ## Usgae
 
 ### Build image
