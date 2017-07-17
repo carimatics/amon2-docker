@@ -30,4 +30,4 @@ Access to `localhost:5000` in your browser after lounch the application.
 
 ## What to do after that
 
-Rewrite files for the application as you wish.
+Rewrite the files for your application as you wish.
