@@ -2,7 +2,7 @@
 
 ## Why use this?
 
-You can develop web applications without contaminating the environment of your host computer.
+You can develop Amon2 web applications without contaminating the environment of your host computer.
 
 ## Usgae
 
