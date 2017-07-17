@@ -22,4 +22,8 @@ $ docker-compose up
 
 ### Access to web app
 
-Access to `localhost:5000` in your browser after lounch application.
+Access to `localhost:5000` in your browser after lounch the application.
+
+## What to do after that
+
+Rewrite the application as you wish.
