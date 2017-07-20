@@ -18,7 +18,7 @@ $ docker-compose build
 $ docker run -v $(pwd):/webapp amon2docker_web carton install
 ```
 
-### Lounch web application
+### Run web application
 
 ```
 $ docker-compose up
@@ -26,7 +26,7 @@ $ docker-compose up
 
 ### Access to web app
 
-Access to `localhost:5000` in your browser after lounch the application.
+Access to `localhost:5000` in your browser after run the application.
 
 ## What to do after that
 
